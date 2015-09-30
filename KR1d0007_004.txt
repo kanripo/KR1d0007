@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮經會元
-#+DATE: 2015-09-23 09:37:22
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:07:27.924573
+#+PROPERTY: ID KR1d0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四上
 <pb:KR1d0007_WYG_004-1a>¶
 欽定四庫全書¶
 　禮經㑹元巻四上　　　　宋　葉時　撰¶
@@ -666,6 +668,7 @@
 　¶
 　¶
 　禮經㑹元巻四上¶
+#+PROPERTY: JUAN 卷四下
 <pb:KR1d0007_WYG_004-40a>¶
 欽定四庫全書¶
 　禮經㑹元卷四下　　　　　宋　葉時　撰¶
@@ -1505,4 +1508,3 @@
 　¶
 　¶
 　禮經㑹元卷四下¶
-

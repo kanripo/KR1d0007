@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮經會元
-#+DATE: 2015-09-23 09:37:22
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:07:27.890115
+#+PROPERTY: ID KR1d0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三上
 <pb:KR1d0007_WYG_003-1a>¶
 欽定四庫全書¶
 　禮經㑹元卷三上　　　　宗　葉時　撰¶
@@ -722,6 +724,7 @@
 　¶
 　¶
 　禮經㑹元卷三上¶
+#+PROPERTY: JUAN 卷三下
 <pb:KR1d0007_WYG_003-41a>¶
 欽定四庫全書¶
 　禮經㑹元卷三下　　　　　宋　葉時　撰¶
@@ -1646,4 +1649,3 @@
 音律以唐之歌而使吕才被管弦果足謂之詩乎誠能¶
 因三百篇以為樂則今樂豈不由古樂奈人之不用何¶
 　禮經㑹元卷三下¶
-
